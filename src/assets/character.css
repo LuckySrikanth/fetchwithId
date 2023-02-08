@@ -1,0 +1,17 @@
+.anime-Container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+.IdContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
